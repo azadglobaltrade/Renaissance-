@@ -1,0 +1,23 @@
+{
+  "name": "Renaissance Founder Academy OS",
+  "short_name": "Founder OS",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f3",
+  "theme_color": "#142b25",
+  "description": "12-school interdisciplinary learning academy and task manager",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
